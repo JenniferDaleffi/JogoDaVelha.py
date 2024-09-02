@@ -1,4 +1,4 @@
-#Jogo da Velha (Tic-Tac-Toe)
+# Jogo da Velha (Tic-Tac-Toe)
 
 Este projeto é uma implementação do jogo da velha (Tic-Tac-Toe) em Python, desenvolvido como parte do Checkpoint 4 do curso TADS da FIAP. O jogo pode ser jogado em três modos:
 
@@ -6,7 +6,7 @@ Jogador X vs Jogador O - Dois jogadores humanos jogam um contra o outro.
 Jogador X vs Máquina (Fácil) - Um jogador humano enfrenta uma máquina com estratégia fácil.
 Jogador X vs Máquina (Difícil) - Um jogador humano enfrenta uma máquina com estratégia difícil.
 
-#Funcionalidades
+# Funcionalidades
 
 Iniciar uma nova partida com o tabuleiro 3x3.
 Imprimir o tabuleiro para visualização do estado atual do jogo.
